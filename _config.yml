@@ -18,7 +18,7 @@ timezone: Atlantic/Reykjavik
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: M7Shapan                         # the main title
+title: M7Shapan's Blog                         # the main title
 
 tagline: Software Engineer | Gopher | Otaku   # it will display as the sub-title
 
