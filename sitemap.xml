@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://m7shapan.com/posts/golang-how-to-unmarshal-a-subset-of-nested-json-data/</loc>
+<lastmod>2020-06-30T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://m7shapan.com/about/</loc>
+<lastmod>2021-11-14T21:19:26+00:00</lastmod>
+</url>
+<url>
+<loc>https://m7shapan.com/tags/</loc>
+<lastmod>2021-11-14T21:19:26+00:00</lastmod>
+</url>
+<url>
+<loc>https://m7shapan.com/archives/</loc>
+<lastmod>2021-11-14T21:19:26+00:00</lastmod>
+</url>
+<url>
+<loc>https://m7shapan.com/</loc>
+</url>
+<url>
+<loc>https://m7shapan.com/tags/golang/</loc>
+</url>
+<url>
+<loc>https://m7shapan.com/tags/json/</loc>
+</url>
+<url>
+<loc>https://m7shapan.com/tags/parser/</loc>
+</url>
+<url>
+<loc>https://m7shapan.com/tags/unmarshaler/</loc>
+</url>
+</urlset>
